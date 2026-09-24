@@ -6,7 +6,7 @@
 
 .footer-container {
   display: flex;
-  align-items: baseline;
+  align-items: flex-start;
 }
 
 .footer-info {
@@ -39,10 +39,6 @@
   letter-spacing: 0.02em;
 
   color: #f4f4fd;
-}
-
-.footer-social {
-  margin-left: 0;
 }
 
 .footer-social-title {
